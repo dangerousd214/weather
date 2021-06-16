@@ -1,0 +1,11 @@
+h1 {
+    color:black;
+}
+
+#today {
+    padding: 8px;
+}
+
+#forecast {
+    justify-content: space-between;
+}
